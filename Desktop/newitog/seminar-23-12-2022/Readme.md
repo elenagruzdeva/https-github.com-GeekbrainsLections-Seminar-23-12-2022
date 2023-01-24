@@ -34,3 +34,4 @@ dlya etogo nygno vupolnit 2 komandu *git add* readme.md dobavlyaem vse izmenennu
 osnovnaya comanda sliyaniay *git merge* Nygno naxoditsya v chistvike, kyda xochesh vlit novui fail. Pri konflikte ybiraem v rychnyu galochki v i = i delaem pravki. ili vubiraem nygnyu ili predlogennux variantov.
 
 ## Удаление веток
+chtobu tdali vetky neobxodimo vvesti komandy *git branch -d <nazvanie vetki>*
