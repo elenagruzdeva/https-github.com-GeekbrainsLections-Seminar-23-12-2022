@@ -7,6 +7,7 @@
 Для создания репозитория используется команда *git init*. Для этого необходимо открыть в терминале папку с будущем репозиторием и написать *git init*
 
 ## Создание коммитов
+dlya etogo nygno vupolnit 2 komandu *git add* readme.md dobavlyaem vse izmenennue failu v index. i 2 komanda sozdaet commit *git commit -m "commit massege"*
 
 ### Добавление файлов к коммиту
 Для добавления файла к новому коммиту используется команда *git add*. Используется она следующим образом: в терминале с папкой-репозиторием пишем *git add <название файла>*.
