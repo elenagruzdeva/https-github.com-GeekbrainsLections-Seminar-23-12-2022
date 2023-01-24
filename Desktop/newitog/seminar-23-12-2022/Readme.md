@@ -31,5 +31,6 @@ dlya etogo nygno vupolnit 2 komandu *git add* readme.md dobavlyaem vse izmenennu
 Для перехода на другую ветку используется команда *git checkout*. Для этого в терминале с папкой-репозиторием необходимо написать *git checkout <название ветки>*. Такая ветка должна **существовать**.
 
 ## Слияние веток и разрешение конфликтов
+osnovnaya comanda sliyaniay *git merge* Nygno naxoditsya v chistvike, kyda xochesh vlit novui fail. Pri konflikte ybiraem v rychnyu galochki v i = i delaem pravki. ili vubiraem nygnyu ili predlogennux variantov.
 
 ## Удаление веток
