@@ -6,8 +6,12 @@ int numberA = Convert.ToInt32 (Console.ReadLine());
 int numberB= Convert.ToInt32 (Console.ReadLine());
 int numberC = Convert.ToInt32 (Console.ReadLine());
 
-
-For (numberA > numberB > numberC );
+int max = numberA ;
+if (numberB > max) max=numberB;
+if (numberC > max) max = numberC;
 {
-    System.Console.WriteLine (numberA);
+    
 }
+{
+}
+Console.WriteLine max;
