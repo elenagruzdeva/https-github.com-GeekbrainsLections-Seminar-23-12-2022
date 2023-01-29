@@ -1,0 +1,5 @@
+/Users/elena/DZC#/zadacha2/obj/Debug/net6.0/zadacha2.csproj.AssemblyReference.cache
+/Users/elena/DZC#/zadacha2/obj/Debug/net6.0/zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/DZC#/zadacha2/obj/Debug/net6.0/zadacha2.AssemblyInfoInputs.cache
+/Users/elena/DZC#/zadacha2/obj/Debug/net6.0/zadacha2.AssemblyInfo.cs
+/Users/elena/DZC#/zadacha2/obj/Debug/net6.0/zadacha2.csproj.CoreCompileInputs.cache
