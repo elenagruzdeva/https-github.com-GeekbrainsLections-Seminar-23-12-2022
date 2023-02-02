@@ -1,0 +1,15 @@
+/Users/elena/bazovue algoritmu/z4.md/obj/Debug/net6.0/z4.md.csproj.AssemblyReference.cache
+/Users/elena/bazovue algoritmu/z4.md/obj/Debug/net6.0/z4.md.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/bazovue algoritmu/z4.md/obj/Debug/net6.0/z4.md.AssemblyInfoInputs.cache
+/Users/elena/bazovue algoritmu/z4.md/obj/Debug/net6.0/z4.md.AssemblyInfo.cs
+/Users/elena/bazovue algoritmu/z4.md/obj/Debug/net6.0/z4.md.csproj.CoreCompileInputs.cache
+/Users/elena/bazovue algoritmu/z4.md/bin/Debug/net6.0/z4.md
+/Users/elena/bazovue algoritmu/z4.md/bin/Debug/net6.0/z4.md.deps.json
+/Users/elena/bazovue algoritmu/z4.md/bin/Debug/net6.0/z4.md.runtimeconfig.json
+/Users/elena/bazovue algoritmu/z4.md/bin/Debug/net6.0/z4.md.dll
+/Users/elena/bazovue algoritmu/z4.md/bin/Debug/net6.0/z4.md.pdb
+/Users/elena/bazovue algoritmu/z4.md/obj/Debug/net6.0/z4.md.dll
+/Users/elena/bazovue algoritmu/z4.md/obj/Debug/net6.0/refint/z4.md.dll
+/Users/elena/bazovue algoritmu/z4.md/obj/Debug/net6.0/z4.md.pdb
+/Users/elena/bazovue algoritmu/z4.md/obj/Debug/net6.0/z4.md.genruntimeconfig.cache
+/Users/elena/bazovue algoritmu/z4.md/obj/Debug/net6.0/ref/z4.md.dll
