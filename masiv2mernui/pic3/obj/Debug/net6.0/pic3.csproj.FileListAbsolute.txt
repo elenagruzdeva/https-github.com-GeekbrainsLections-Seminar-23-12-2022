@@ -1,0 +1,15 @@
+/Users/elena/masiv2mernui/pic3/bin/Debug/net6.0/pic3
+/Users/elena/masiv2mernui/pic3/bin/Debug/net6.0/pic3.deps.json
+/Users/elena/masiv2mernui/pic3/bin/Debug/net6.0/pic3.runtimeconfig.json
+/Users/elena/masiv2mernui/pic3/bin/Debug/net6.0/pic3.dll
+/Users/elena/masiv2mernui/pic3/bin/Debug/net6.0/pic3.pdb
+/Users/elena/masiv2mernui/pic3/obj/Debug/net6.0/pic3.csproj.AssemblyReference.cache
+/Users/elena/masiv2mernui/pic3/obj/Debug/net6.0/pic3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/masiv2mernui/pic3/obj/Debug/net6.0/pic3.AssemblyInfoInputs.cache
+/Users/elena/masiv2mernui/pic3/obj/Debug/net6.0/pic3.AssemblyInfo.cs
+/Users/elena/masiv2mernui/pic3/obj/Debug/net6.0/pic3.csproj.CoreCompileInputs.cache
+/Users/elena/masiv2mernui/pic3/obj/Debug/net6.0/pic3.dll
+/Users/elena/masiv2mernui/pic3/obj/Debug/net6.0/refint/pic3.dll
+/Users/elena/masiv2mernui/pic3/obj/Debug/net6.0/pic3.pdb
+/Users/elena/masiv2mernui/pic3/obj/Debug/net6.0/pic3.genruntimeconfig.cache
+/Users/elena/masiv2mernui/pic3/obj/Debug/net6.0/ref/pic3.dll
